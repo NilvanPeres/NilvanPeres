@@ -1,7 +1,7 @@
 ## :grinning: Hi there, I am Nilvan Peres
 
 [![Linkedin: Nilvan Peres](https://img.shields.io/badge/-NilvanPeres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/NilvanPeres/)](https://www.linkedin.com/in/nilvan-peres-costa-594611182/)
-[![GitHub Nilvan Peres Jr](https://img.shields.io/github/followers/juninhigh?label=follow&style=social)](https://github.com/juninhigh)
+[![GitHub Nilvan Peres Jr](https://img.shields.io/github/followers/NilvanPeres?label=follow&style=social)](https://github.com/NilvanPeres)
 
 <br/>
 
