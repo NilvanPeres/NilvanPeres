@@ -34,11 +34,11 @@
 </p>
 
 ## :arrow_up:GitHub stats:
-<a href="https://github.com/juninhigh/github-readme-stats">
+<a href="https://github.com/NilvanPeres/github-readme-stats">
   <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninhigh&hide=jupyter%20notebook,html&layout=compact&theme=dracula" />
 </a>
 
-<a href="https://github.com/juninhigh/github-readme-statst">
+<a href="https://github.com/NilvanPeres/github-readme-statst">
   <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=juninhigh&show_icons=true&theme=dracula" />
 </a>
 
